@@ -1,0 +1,54 @@
+div .centered {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+/*a#appstore-styled {*/
+    /*background-image: url(../public-v2/images/button_app_store.png);*/
+    /*-webkit-background-size: cover;*/
+    /*-moz-background-size: cover;*/
+    /*-o-background-size: cover;*/
+    /*background-size: cover;*/
+/*}*/
+/*a .app-badge-styled--appstore :hover {*/
+    /*background-image: url(../public-v2/images/button_app_store_active.png);*/
+    /*-webkit-background-size: cover;*/
+    /*-moz-background-size: cover;*/
+    /*-o-background-size: cover;*/
+    /*background-size: cover;*/
+/*}*/
+/*a .app-badge-styled--google_play {*/
+    /*background-image: url(../public-v2/images/button_google_play.png);*/
+    /*-webkit-background-size: cover;*/
+    /*-moz-background-size: cover;*/
+    /*-o-background-size: cover;*/
+    /*background-size: cover;*/
+/*}*/
+/*a .app-badge-styled--google_play :hover {*/
+    /*background-image: url(../public-v2/images/button_google_play_active.png);*/
+    /*-webkit-background-size: cover;*/
+    /*-moz-background-size: cover;*/
+    /*-o-background-size: cover;*/
+    /*background-size: cover;*/
+/*}*/
+
+.app-badge-styled--appstore {
+    background-image: url(../public-v2/images/button_app_store.png);
+    width: 120px;
+    margin: auto;
+}
+.app-badge-styled--appstore:hover {
+    background-image: url(../public-v2/images/button_app_store_active.png);
+    width: 120px;
+    margin: auto;
+}
+.app-badge-styled--google-play {
+    background-image: url(../public-v2/images/button_google_play.png);
+    width: 120px;
+    margin: auto;
+}
+.app-badge-styled--google-play:hover {
+    background-image: url(../public-v2/images/button_google_play_active.png);
+    width: 120px;
+    margin: auto;
+}
